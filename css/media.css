@@ -1,0 +1,385 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/ 
+.menu ul li a{
+	padding: 2px 0 !important;
+	font-size: 16px;
+	text-align: right;
+	}
+/*.search {
+    display: block !important;
+    width: 227px;
+    float: right;
+}*/
+/*header end*/
+/*banner start*/
+.banner-title {
+    margin: 100px 0 100px;
+}
+.t-h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.t-p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.t-button {
+    padding: 5px;
+    margin: 50px 0 30px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+/*banner end*/
+/*journey start*/
+.j-h1 {
+    font-size: 55px;
+}
+.j-p {
+    font-size: 22px;
+}
+.card-title {
+    font-size: 25px;
+}
+.card-text {
+    font-size: 18px;
+}
+/*journey end*/
+/*Discount & Promo start*/
+.disc-text {
+    margin: 100px 0 100px 15px;
+}
+.disc-title {
+    margin: 0 0 40px 0;
+    font-size: 30px;
+}
+.disc {
+    font-size: 19px;
+}
+.disc-button {
+    margin: 45px 0 0 0;
+    padding: 10px 60px;
+    font-size: 20px;
+}
+/*Discount & Promo end*/
+/*hiking start*/
+.h-title {
+    margin: 134px 0 166px 0;
+}
+.h-text {
+
+    font-size: 30px;
+    color: white;
+}
+.h-p {
+    font-size: 16px;
+
+}
+/*hiking end*/
+/*review start*/
+.r-title {
+    margin: 50px 0 50px 0;
+    text-align: center;
+}
+.quote {
+    margin-top: 30px;
+}
+.q-img{
+    font-size: 25px;
+}
+.q-title {
+    font-size: 17px;
+
+}
+.quote{
+    margin-bottom: 50px;
+}
+/*review end*/
+/*subscribe start*/
+.s-text {
+    font-size: 45px;
+}
+.s-p {
+    font-size: 17px;
+}
+.form-section input[type="email"] {
+    width: 179px;
+}
+
+.form-section input[type="submit"] {
+    margin-left: -38px;
+    padding: 0 25px;
+}
+/*subscribe end*/
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/ 
+.menu ul li a{
+	padding: 2px 0 !important;
+	font-size: 16px;
+	text-align: right;
+	} 
+.search {
+    display: block !important;
+    width: 300px;
+    float: right;
+}
+/*header end*/
+/*banner start*/
+.banner-title {
+    margin: 100px 0 100px;
+}
+.t-h1 {
+    font-size: 40px;
+}
+.t-p {
+    font-size: 18px;
+}
+.t-button {
+    padding: 10px;
+    margin: 50px 0 30px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.t-s{
+	font-size: 16px;
+}
+/*banner end*/
+/*journey start*/
+.j-title {
+    margin: 120px 0 73px 0;
+}
+.card-title {
+    font-size: 18px;
+}
+.card-text {
+    font-size: 16px;
+}
+.j-button{
+    margin: 52px 0 50px 0;
+}
+/*journey end*/
+/*Discount & Promo start*/
+.disc {
+    font-size: 20px;
+}
+.disc-button {
+    margin: 45px 0 0 0;
+    padding: 10px 60px;
+    font-size: 18px;
+}
+/*Discount & Promo end*/
+/*Hiking start*/
+.h-title {
+    margin: 140px 0 157px 0;
+}
+.h-text {
+    font-size: 40px;
+    color: white;
+}
+.h-p {
+    font-size: 18px;
+}
+
+/*Hiking end*/
+/*review start*/
+.r-title {
+    margin: 20px 0 100px 0;
+}
+.r-text {
+    font-size: 21px;
+}
+.r-p {
+    font-size: 16px;
+    
+}
+.q-img{
+    font-size: 25px;
+}
+.q-title {
+    margin: 47px 0 40px 0;
+    font-size: 25px;
+}
+.quote{
+    margin-bottom: 50px;
+}
+/*review end*/
+
+/*subscribe start*/
+.s-text {
+    font-size: 65px;
+}
+.s-p {
+    font-size: 22px;
+}
+.form-section input[type="email"] {
+    width: 300px;
+}
+/*subscribe end*/
+/*Footer start*/
+.f_text ul li {
+        display: inline-block;
+        margin-left: 11px;
+    }
+.f_text li:nth-child(1) {
+        margin-left: 0px;
+    }
+/*Footer end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/ 
+.menu ul li a{
+	padding: 2px 0 !important;
+	text-align: right;
+	} 
+.search {
+    display: block !important;
+    width: 300px;
+    float: right;
+}
+/*header end*/
+/*banner start*/
+.banner-title {
+    margin: 100px 0 100px;
+}
+.t-h1 {
+    font-size: 50px;
+}
+.t-p {
+    font-size: 18px;
+}
+.t-button {
+    padding: 15px;
+    margin: 50px 0 30px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.t-s{
+	font-size: 16px;
+}
+/*banner end*/
+/*journey start*/
+.card-title {
+    font-size: 26px;
+}
+.card-text {
+    font-size: 16px;
+}
+.j-button{
+    margin: 52px 0 50px 0;
+}
+/*journey end*/
+/*Discount & Promo start*/
+.disc-text {
+    margin: 60px 0 0 14px;
+}
+.disc-title {
+    margin: 0 0 40px 0;
+    font-size: 36px;
+}
+.disc {
+    font-size: 20px;
+}
+.disc-button {
+    margin: 45px 0 0 0;
+    padding: 10px 60px;
+    font-size: 20px;
+}
+.disc-img img {
+    height: 600px !important;
+}
+/*Discount & Promo end*/
+/*hiking start*/
+.h-title {
+    margin: 135px 0 150px 0;
+}
+.h-text {
+    margin-bottom: 13px;
+    font-size: 44px;
+}
+.h-p {
+    font-size: 21px;
+}
+/*hiking end*/
+/*review start*/
+.r-title {
+    margin: 20px 0 100px 0;
+}
+.r-text {
+    font-size: 21px;
+}
+.r-p {
+    font-size: 16px;
+    
+}
+.q-img{
+    font-size: 25px;
+}
+.q-title {
+    margin: 47px 0 40px 0;
+    font-size: 20px;
+}
+.quote{
+    margin-bottom: 50px;
+}
+/*review end*/
+/*subscribe start*/
+.s-text {
+    font-size: 70px;
+}
+.s-p {
+    font-size: 25px;
+}
+.form-section input[type="email"] {
+    width: 334px;
+}
+/*subscribe end*/
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+.t-h1 {
+    font-size: 75px;
+}
+/*banner end*/
+/*Discount & Promo start*/
+.disc-title {
+    font-size: 40px;
+}
+.disc {
+    font-size: 21px;
+}
+.disc-button {
+    margin: 45px 0 0 0;
+    padding: 10px 60px;
+    font-size: 20px;
+}
+/*Discount & Promo end*/
+/*hiking start*/
+.h-title {
+    margin: 135px 0 150px 0;
+}
+.h-text {
+    margin-bottom: 13px;
+    font-size: 44px;
+}
+.h-p {
+    font-size: 21px;
+}
+/*hiking end*/
+/*review start*/
+.r-title {
+    margin: 50px 0 100px 0;
+}
+/*review end*/
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }

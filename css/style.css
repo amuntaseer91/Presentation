@@ -1,0 +1,352 @@
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Open Sans', sans-serif;*/
+
+/*Header Start*/
+/*Navbar*/
+
+.bg-img {
+    background-image: url('../image/shape1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+
+}
+
+.image {
+    padding: 5px 0;
+}
+
+
+.menu ul li a {
+    padding: 0 15px !important;
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #54524f !important;
+
+}
+
+
+.menu ul li a:hover {
+    color: black;
+    text-decoration: underline;
+
+}
+
+
+
+
+/*Banner start*/
+.banner-title {
+    margin: 206px 0 112px;
+}
+
+.banner-img {
+    background-image: url('../image/banner.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.t-h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    color: #deb37e;
+
+}
+
+.t-p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    color: #54524f;
+    letter-spacing: 1px;
+}
+
+.t-button {
+    padding: 10px;
+    margin: 67px 0 30px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #776c64;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+    -webkit-transition: .3s linear;
+    -moz-transition: .3s linear;
+}
+
+.t-button:hover {
+    background-color: black;
+}
+
+
+.t-s {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    color: #54524f;
+
+}
+
+/*Banner end*/
+
+/*Journey start*/
+.journey-img{
+    background-image: url('../image/shadow.png');
+    background-size: cover;
+    background-position: left left;
+    background-repeat: no-repeat;
+
+}
+.j-title{
+    margin: 158px 0 78px 0;
+}
+.j-h1{
+    margin-bottom: 42px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 62px;
+    font-weight: 700;
+    color: #e2a355;
+}
+.j-p{
+    font-size:27px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #7f7770;
+
+}
+
+.j-button{
+    margin: 52px 0 100px 0;
+    padding: 10px 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    cursor: pointer;
+    border:none;
+    border-radius: 20px;
+    background-color: #7f7770;
+    -webkit-transition: .3s linear;
+    -moz-transition: .3s linear;
+}
+
+.j-button:hover {
+    background-color: black;
+}
+
+.card-body{
+    background-color: #7f7770;
+    padding:   50px 0 !important;
+   
+}
+.card-title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    color: white;
+}
+.card-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    
+}
+
+/*Journey end*/
+/*discount start*/
+.discount{
+    background-color: #7f7770;
+}
+
+.disc-img img{
+   height: 860px !important;
+   
+}
+
+.disc-text{
+    margin: 157px 0 114px 50px;
+}
+
+.disc-title{
+    margin: 0 0 55px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.disc{
+
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    color: white;
+}
+
+
+.disc-button{
+    margin: 60px 0 0 0;
+    padding: 10px 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 29px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    border:none;
+    border-radius: 40px;
+    background-color: #e2a355;
+    -webkit-transition: .3s linear;
+    -moz-transition: .3s linear;
+}
+.disc-button:hover {
+    background-color: black;
+}
+
+/*discount end*/
+/*promo start*/
+.promo{
+    background-color: #deb37e;
+}
+
+/*promo end*/
+/*hiking start*/
+.hiking-img{
+
+}
+.hiking{
+    background-image: url('../image/hiking.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.h-title{
+    margin: 150px 0;
+}
+.h-text{
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 58px;
+    color: white;
+}
+.h-p{
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 29px;
+    color: #dbdbdb;
+}
+/*hiking end*/
+/*review start*/
+.review{
+    background-image: url('../image/shadow1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.r-title{
+    margin: 200px 0 240px 0;
+}
+.r-text{
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 33px;
+    color: #deb37e;
+}
+.r-p{
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #333d42;
+}
+.quote{
+    margin-bottom: 151px;
+}
+.q-img{
+    color: black;
+    font-size: 50px;
+}
+.q-title{
+    margin: 47px 0 89px 0;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color: #3f3f3f;
+}
+.q-text{
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #3f3f3f;
+
+}
+/*review end*/
+/*subscribe start*/
+.subscribe{
+    background-image: url('../image/subscribe.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.s-title{}
+.s-text{
+    margin: 170px 0 70px 0;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 75px;
+    color: white;
+}
+.s-p{
+    margin-bottom: 85px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 29px;
+    color: #54524f;
+}
+.form-section{
+    margin-bottom: 129px;
+}
+
+
+.form-section input[type="email"] {
+    border: 0 none;
+    border-radius: 25px;
+    color: #9b9b9b;
+    font-size: 16px;
+    font-style: normal;
+    height: 51px;
+    letter-spacing: 0;
+    text-align: center;
+    width: 400px;
+    font-family: 'Open Sans', sans-serif;
+}
+.form-section input[type="submit"] {
+    background: #54524f none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 25px;
+    color: white;
+    height: 51px;
+    letter-spacing: 0;
+    margin-left: -60px;
+    padding: 0 58px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+
+/*subscribe end*/
+
+/*Footer start*/
+.footer{
+    margin: 100px 0;
+}
+.f_text ul li a:hover {
+    text-decoration: underline;
+}
+/*Footer end*/
